@@ -1,0 +1,16 @@
+body {
+    margin: 0 20px;
+}
+.container {
+    display: flex;
+}
+
+.container > div {
+    margin: 0 10px;
+    width: 200px;
+    border-left: 2px solid #444b6e;
+}
+
+.container > div h3 {
+    padding-left: 10px;
+}

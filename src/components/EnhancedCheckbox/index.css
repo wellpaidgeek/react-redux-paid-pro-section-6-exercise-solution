@@ -1,0 +1,13 @@
+.enhanched-checkbox-container {
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+.enhanched-checkbox-container input {
+    margin-right: 10px;
+}
+
+.enhanched-checkbox-container-selected {
+    font-weight: bold;
+    background-color: #9ab87a;
+}
